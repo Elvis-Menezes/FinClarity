@@ -1,0 +1,28 @@
+# Core
+pandas
+numpy
+scikit-learn
+matplotlib
+nltk
+gensim
+rapidfuzz
+requests
+python-dateutil
+schedule
+tqdm
+
+# App/UI
+streamlit
+
+# NLP (NER)
+transformers
+torch
+tokenizers
+sentencepiece
+
+# News & finance
+gnews
+yfinance
+
+# TTS fallback
+gTTS
