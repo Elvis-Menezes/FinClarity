@@ -1,0 +1,5 @@
+model,P@5,MAP@10,nDCG@10
+CBOW+Cosine_Similarity,0.0267,0.0002,0.0437
+SKIP+Cosine_Similarity,0.0333,0.0003,0.0469
+TFIDF+Cosine_Similarity,0.04,0.0003,0.0727
+TFIDF+Ensemble_Clustering,0.9067,0.0284,0.9303
