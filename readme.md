@@ -58,7 +58,7 @@ Running the Application
 4.	Start the Web App: Execute streamlit run rag_streamlit_app.py. The app will load the data, display options to adjust retrieval parameters and allow you to query any
 company. For jargon explanations, click the “Explain Jargon” button and enter a term.
 
-Contributing
+Contributing:
 Contributions are welcome! Feel free to open issues or pull requests to enhance the retrieval engine, improve evaluation metrics, add new data sources or refine the user interface. Please ensure that any additional dependencies are listed in the project documentation.
 License
 This project is provided for educational purposes. See the repository for licensing details.
